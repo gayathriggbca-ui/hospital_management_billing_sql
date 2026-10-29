@@ -11,7 +11,7 @@ This project uses MySQL to explore and validate a healthcare dataset. It covers 
 
 ## Dataset
 
-- **Source:** The five CSV files were generated with ChatGPT (AI-generated, synthetic data).
+- **Source:** Kaggle – Hospital Management Dataset by Kanak Baghel.
 - The data is made for practice, so the findings are illustrative, not real healthcare conclusions.
 - The five raw CSV files are included in the main repository for reproducibility.
 
